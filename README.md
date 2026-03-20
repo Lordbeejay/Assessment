@@ -14,7 +14,7 @@ I chose Option B (Blade views) so you can see the UI in the browser. The app let
 
 1. Clone the repo
 
-git clone https://github.com/Lordbeejay/EDM_Assessment.git
+git clone https://github.com/Lordbeejay/Assessment.git
 cd EDM_Assessment
 
 
